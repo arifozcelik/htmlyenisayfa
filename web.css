@@ -1,0 +1,14 @@
+#first_article {
+    font-size: small;
+    color:royalblue;
+    font-family: inherit;
+}
+body{
+    background-color: lavender;
+}
+#hakkinda_footer{
+    font-size: 24px;
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: chocolate;
+}
